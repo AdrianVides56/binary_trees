@@ -56,9 +56,10 @@ Read or watch:
 | 17. Sibling | Write a function that finds the sibling of a node | `binary_tree_t *binary_tree_sibling(binary_tree_t *node);` |
 | 18. Uncle | Write a function that finds the uncle of a node | `binary_tree_t *binary_tree_uncle(binary_tree_t *node);` |
 
+---
+
 ## Author :bust_in_silhouette:
 - [Adrian Vides] | [Twitter] | [GitHub]
-
 
 
 ---
